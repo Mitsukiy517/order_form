@@ -1,0 +1,16 @@
+<div class='container mt-3 mb-5'>
+  <h1 class='text-center mb-5'>注文完了</h1>
+  
+  <div class="text-center mb-5">
+    <p>
+      <%= @order.name %>様
+      <br>
+      ご注文ありがとうございました。
+      <br>
+      商品の発送まで今しばらくお待ちください。
+    </p>
+  </div>
+  <div class='d-grid col-md-4 mx-auto'>
+    <%= link_to '注文画面へ戻る', new_order_path, class: 'btn btn-lg btn-primary' %>
+  </div>
+</div>
