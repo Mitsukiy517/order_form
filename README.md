@@ -19,6 +19,8 @@
 <img width="1627" height="864" alt="image" src="https://github.com/user-attachments/assets/9b4a1107-cacd-433d-ab64-8e2200776881" />
 
 ・登録データ
+
+
 <img width="871" height="61" alt="image" src="https://github.com/user-attachments/assets/07b7b39e-0d74-4478-8bdf-460bbf082ee8" />
 
 ・注文時送信メール
